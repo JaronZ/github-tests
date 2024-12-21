@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-description: Create an issue for reporting a bug or unexpected behavior.
+about: Create an issue for reporting a bug or unexpected behavior.
 labels: bug
 
 body:
