@@ -1,3 +1,9 @@
+---
+name: Bug Report
+about: Create an issue for reporting a bug or unexpected behavior.
+
+---
+
 ## Issue Title
 
 <!-- Provide a short title summarizing the issue -->
